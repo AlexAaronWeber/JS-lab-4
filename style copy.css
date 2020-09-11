@@ -1,0 +1,49 @@
+section {
+  margin-bottom: 100px;
+}
+
+.coin {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: grey;
+}
+
+.Penny {
+  width: 50px;
+  height: 50px;
+  background-color: brown;
+  text-align: center;
+}
+
+.Nickle {
+  width: 55px;
+  height: 55px;
+  background-color: grey;
+  text-align: center;
+}
+
+.Dime {
+  width: 40px;
+  height: 40px;
+  background-color: darkgrey;
+  text-align: center;
+}
+
+.Quarter {
+  width: 70px;
+  height: 70px;
+  background-color: silver;
+  text-align: center;
+}
+
+.bulb {
+  width: 100px;
+  height: 100px;
+  background-color: dimgrey;
+  border-radius: 50%;
+}
+
+.light {
+  background-color: gold;
+}
